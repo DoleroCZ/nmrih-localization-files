@@ -33,18 +33,18 @@
 "NMRiH_Options_ShowObjective"		"Ukázat aktuální úkol"
 "NMRiH_Options_DropWeapon"		"Upustit zbraň"
 "NMRiH_Options_Sprint"			"Sprint"
-"NMRiH_Options_Reload"			"Přebití (přidržte pro kontrolu stavu munice)"
+"NMRiH_Options_Reload"			"Nabití (podržte pro kontrolu stavu munice)"
 "NMRiH_Options_Holster"			"Schovat zbraň"
 "NMRiH_Options_UnloadWeapon"		"Vybít zbraň"
 "NMRiH_Call_Vote"				"Zahájit hlasování"
-"NMRiH_Options_SelectFire"		"Změnit způsob střelby"
+"NMRiH_Options_SelectFire"		"Změnit režim střelby"
 "NMRiH_Options_ShowMOTD"		"Zobrazit zprávu dne"
 "NMRiH_Options_RecordDemo"		"Pořídit nahrávku"
 
 "NMRiH_Difficulty"	"Obtížnost"
 
 "NMRiH_Difficulty_Classic"		"Klasická"
-"NMRiH_Difficulty_Casual"		"Nenáročná"
+"NMRiH_Difficulty_Casual"		"Snadná"
 "NMRiH_Difficulty_Nightmare"	"Noční můra"
 "NMRiH_Difficulty_PVP"			"Hráč proti hráči"
 
